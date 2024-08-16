@@ -21,6 +21,8 @@ https://github.com/aws-deepracer-community/deepracer-race-data/tree/main/raw_dat
 ç
 
  https://tech-tube.prod.aws.jpmchase.net/#/videos/e02334ad-0448-4923-8624-f1fc5b4a3376
+https://github.com/suganthiaravind/scottpletcherdeepracer/blob/master/iterations/v1-PurePursuit.md
 
-
-
+https://github.com/suganthiaravind/DeepRacerRewardFunctionsCollection
+https://github.com/dgnzlz
+https://docs.aws.amazon.com/deepracer/latest/developerguide/deepracer-reward-function-input.html#:~:text=Input%20parameters%20of%20the%20AWS%20DeepRacer%20reward,closest_objects%20%C2%B7%20distance_from_center%20%C2%B7%20heading%20%C2%B7%20is_crashed.
